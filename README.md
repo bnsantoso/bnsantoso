@@ -1,4 +1,4 @@
-Learning Python, Rust, and Godot. 
+Learning Python and Rust.
 
 <!---
 bnsantoso/bnsantoso is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
